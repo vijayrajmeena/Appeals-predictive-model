@@ -1,0 +1,2 @@
+# Project-ZEUS
+A predictive analytics model that can be scaled to any time period, source or processing bucket name and holds power to be expanded to many more parameters. The model is translated using powerful &amp; dynamic logics to online reporting that can be accessed anywhere &amp; anytime. The engagements resulted in streamlined processes leading to cost savings, process efficiency, better management control and improved operating efficiency.
